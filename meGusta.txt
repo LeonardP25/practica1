@@ -1,0 +1,4 @@
+comida: Patatas con queso y jamón
+Bebida1: Coca Cola
+Bebida2: Vino
+Bebida3: Zumo de Naranja
