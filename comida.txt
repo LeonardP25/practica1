@@ -1,1 +1,2 @@
-comida: Patatas con queso y jamón 
+comida: Patatas con queso y jamón
+ 
